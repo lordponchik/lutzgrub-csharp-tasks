@@ -1,4 +1,18 @@
-﻿namespace Ulraubsrechner
+﻿/*
+Für die Bestimmung des Urlaubsanspruchs des Antragsstellers ist ein Programm zu erstellen. 
+Grundlage für die Berechnung des Urlaubsanspruchs bildet die Betriebsvereinbarung (siehe Anlage). 
+Erstellen Sie aufgrund der Betriebsvereinbarung ein Programm, welches die richtige Höhe des 
+Urlaubsanspruchs berechnet.  
+  
+Anlage Betriebsvereinbarung: 
+Allen Beschäftigten stehen 26 Tage Urlaub zu.  
+Minderjährige Beschäftigte erhalten 30 Tage Urlaub. 
+Beschäftigte, die älter als 55 Jahre sind, erhalten 28 Tage Urlaub. 
+Beschäftigte mit einer Behinderung ab 50 % erhalten zusätzlich 5 weitere Tage Urlaub. 
+Beschäftigte mit einer Betriebszugehörigkeit von mehr als 10 Jahren erhalten 2 zusätzliche Tage Urlaub.
+*/
+
+namespace Ulraubsrechner
 {
     class Program
     {
