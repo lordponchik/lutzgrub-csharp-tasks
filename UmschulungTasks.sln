@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_Taschen_Rechner", "07_Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschen_Rechner", "Aufgaben\07_Taschen_Rechner\Taschen_Rechner\Taschen_Rechner.csproj", "{AF47481D-3B37-4BB0-936A-7FB101D807F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschen_Rechner v1.0", "Aufgaben\07_Taschen_Rechner\Taschen_Rechner v1.0\Taschen_Rechner v1.0.csproj", "{115A24B6-A8F4-43D7-9239-4AA521A12596}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,18 @@ Global
 		{AF47481D-3B37-4BB0-936A-7FB101D807F6}.Release|x64.Build.0 = Release|Any CPU
 		{AF47481D-3B37-4BB0-936A-7FB101D807F6}.Release|x86.ActiveCfg = Release|Any CPU
 		{AF47481D-3B37-4BB0-936A-7FB101D807F6}.Release|x86.Build.0 = Release|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Debug|x64.Build.0 = Debug|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Debug|x86.Build.0 = Debug|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x64.ActiveCfg = Release|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x64.Build.0 = Release|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x86.ActiveCfg = Release|Any CPU
+		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,5 +160,6 @@ Global
 		{A8E1E5B9-8F31-4722-BEBC-AD5EBB0CDF95} = {DAA4B667-611E-9A93-81B6-C426800E0303}
 		{F347EA9B-0E23-9FBC-15CF-B73AB5AC1795} = {65D81A64-A774-A646-9641-709ADC95EC14}
 		{AF47481D-3B37-4BB0-936A-7FB101D807F6} = {F347EA9B-0E23-9FBC-15CF-B73AB5AC1795}
+		{115A24B6-A8F4-43D7-9239-4AA521A12596} = {F347EA9B-0E23-9FBC-15CF-B73AB5AC1795}
 	EndGlobalSection
 EndGlobal
