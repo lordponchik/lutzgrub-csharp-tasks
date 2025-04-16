@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschen_Rechner", "Aufgaben
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschen_Rechner v1.0", "Aufgaben\07_Taschen_Rechner\Taschen_Rechner v1.0\Taschen_Rechner v1.0.csproj", "{115A24B6-A8F4-43D7-9239-4AA521A12596}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschen_Rechner v2.0", "Aufgaben\07_Taschen_Rechner\Taschen_Rechner v2.0\Taschen_Rechner v2.0.csproj", "{C30247A5-DF08-4B4C-86F9-5521785D659A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,18 @@ Global
 		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x64.Build.0 = Release|Any CPU
 		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x86.ActiveCfg = Release|Any CPU
 		{115A24B6-A8F4-43D7-9239-4AA521A12596}.Release|x86.Build.0 = Release|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Debug|x64.Build.0 = Debug|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Debug|x86.Build.0 = Debug|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Release|x64.ActiveCfg = Release|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Release|x64.Build.0 = Release|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Release|x86.ActiveCfg = Release|Any CPU
+		{C30247A5-DF08-4B4C-86F9-5521785D659A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -161,5 +175,6 @@ Global
 		{F347EA9B-0E23-9FBC-15CF-B73AB5AC1795} = {65D81A64-A774-A646-9641-709ADC95EC14}
 		{AF47481D-3B37-4BB0-936A-7FB101D807F6} = {F347EA9B-0E23-9FBC-15CF-B73AB5AC1795}
 		{115A24B6-A8F4-43D7-9239-4AA521A12596} = {F347EA9B-0E23-9FBC-15CF-B73AB5AC1795}
+		{C30247A5-DF08-4B4C-86F9-5521785D659A} = {F347EA9B-0E23-9FBC-15CF-B73AB5AC1795}
 	EndGlobalSection
 EndGlobal
