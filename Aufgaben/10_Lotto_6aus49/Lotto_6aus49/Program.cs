@@ -44,12 +44,8 @@ namespace Lotto_6aus49
 
                 for (int i = 0; i < getipptenZahlen.Length; i += 1)
                 {
-
-
                     do
                     {
-
-
                         Console.Write($"Es sind noch {getipptenZahlen.Length - i} Zahlen übrig. Geben Sie eine Zahl: ");
 
                         istZahl = int.TryParse(Console.ReadLine(), out zahl);
