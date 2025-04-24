@@ -156,6 +156,17 @@ namespace Lotto_6aus49
                 Console.WriteLine("Willkommen bei unserem Spiel 6 aus 49");
                 Console.WriteLine("Die Zahl muss von 1 bis 49 sein.");
                 Console.WriteLine();
+
+            }
+
+            try
+            {
+
+            }
+            catch (Exception)
+            {
+
+                throw;
             }
         }
     }

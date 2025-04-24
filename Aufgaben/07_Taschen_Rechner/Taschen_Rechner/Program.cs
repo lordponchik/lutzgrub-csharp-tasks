@@ -50,19 +50,25 @@ namespace Taschen_Rechner
             {
                 case "+":
                     ergebnis = zahl_1 + zahl_2;
+                    Console.WriteLine($"Ergebnis ist {ergebnis}");
                     break;
                 case "-":
                     ergebnis = zahl_1 - zahl_2;
+                    Console.WriteLine($"Ergebnis ist {ergebnis}");
                     break;
                 case "*":
                     ergebnis = zahl_1 * zahl_2;
+                    Console.WriteLine($"Ergebnis ist {ergebnis}");
                     break;
                 case "/":
-                    ergebnis = zahl_1 / zahl_2;
+                    if (zahl_2 != 0)
+                    {
+                        ergebnis = zahl_1 / zahl_2;
+                        Console.WriteLine($"Ergebnis ist {ergebnis}");
+                    }
+                    else Console.WriteLine($"Sie können nicht durch Null teilen");
                     break;
             }
-
-            Console.WriteLine($"Ergebnis ist {ergebnis}");
         }
     }
 }
